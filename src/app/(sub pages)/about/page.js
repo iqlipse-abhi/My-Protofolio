@@ -35,7 +35,7 @@ export default function Home() {
             Abhishek Yadav
           </h1>
           <p className="font-bold text-white-600 text-foreground text-2xl">
-            &lt; Frontend Developer &gt;
+            &lt; Software Developer &gt;
           </p>
         </div>
       </div>

@@ -36,6 +36,14 @@ export const projectsData = [
 export const ExperienceData = [
   {
     id: 1,
+    name: "Bank of America ",
+    description: "[Software Engineer]",
+    date: "2024-07-08",
+    demoLink:
+      "",
+  },
+  {
+    id: 2,
     name: "Solytics Partners ",
     description: "[Frontend Developer Intern]",
     date: "2023-08-23",
@@ -43,7 +51,7 @@ export const ExperienceData = [
       "https://drive.google.com/file/d/1S5x8Yx9hwxQUO-BpvuFGi5-Vy0rjx_9R/view?usp=sharing",
   },
   {
-    id: 2,
+    id: 3,
     name: "TakeUForward ",
     description: "[Member of Technical Staff Intern]",
     date: "2022-03-01",
@@ -51,7 +59,7 @@ export const ExperienceData = [
       "https://drive.google.com/file/d/1pRbV7gMzYf4PCTSNyiwxBwnu_10e7M7u/view?usp=sharing",
   },
   {
-    id: 3,
+    id: 4,
     name: "Chegg ",
     description: "[Subject Matter Expert]",
     date: "2023-02-01",
@@ -59,7 +67,7 @@ export const ExperienceData = [
       "https://drive.google.com/file/d/1yTOCYhm5-RX-mSzvnSJMOLdcKXIK9ALi/view?usp=sharing",
   },
   {
-    id: 4,
+    id: 5,
     name: "GeeksForGeeks ",
     description: "[Technical Content Writer]",
     date: "2022-05-26",
@@ -67,7 +75,7 @@ export const ExperienceData = [
       "https://drive.google.com/file/d/1AnjZyGtwOQ5_StgFfNMiQrSw8Fv3iC5p/view?usp=sharing",
   },
   {
-    id: 5,
+    id: 6,
     name: "Remotask ",
     description: "[AI Model Trainer]",
     date: "2023-11-26",
@@ -100,7 +108,8 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "./Abhishek_yadav_resume_tcs.pdf",
+    link: "./Abhishek Yadav Resume.pdf",
+    
     icon: "resume",
     newTab: true,
   },

@@ -15,8 +15,8 @@ const DynamicText = () => {
       <div className="text-yellow-100">
         <ReactTyped
           strings={[
-            "I'm a Frontend Developer..!",
-            "Skilled in JavaScript and React",
+            "I'm a Software Developer..!",
+            "Skilled in JavaScript, React.js and Node.js",
             "Proficient in Next.js and MUI",
             "With Proven Experience of Over a Year",
             "Passionate about creating intuitive UI",
