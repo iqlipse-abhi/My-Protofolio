@@ -19,6 +19,13 @@ Websites:
 export const projectsData = [
   {
     id: 1,
+    name: "Vercel ",
+    description: "[Host your application seamlessly]",
+    date: "2025-02-01",
+    demoLink: "https://github.com/iqlipse-abhi/Vercel",
+  },
+  {
+    id: 2,
     name: "Code Buddy ",
     description: "[Your Programming Buddy]",
     date: "2023-05-15",
